@@ -1,1 +1,1 @@
-# Mon
+Solar Panel Fault Detection Model
