@@ -93,7 +93,7 @@ The model performs well across all fault categories, demonstrating strong genera
 1. *Clone the repository:*
 
    bash
-   git clone https://github.com/2004harsha/solar-panel-fault-detection.git
+   git clone [https://github.com/2004harsha/solar-panel-fault-detection.git]
    cd solar-panel-fault-detection
    
 
@@ -132,7 +132,7 @@ The model performs well across all fault categories, demonstrating strong genera
 ## Author
 
 *Manoj Gowda*
-GitHub: [ManojGowda03](https://github.com/ManojGowda03)
+GitHub: [ManojGowda03](https://github.com/ManojGowda03/Mon.git)
 
 ---
 
